@@ -12,8 +12,8 @@
    </description>  
    
    <author href="https://build.phonegap.com" email="micorreo@gmail.com">  
-       Nombre
-   </author>  
+       Belen Guzman Mendez
+	      </author>  
    
    <!-- Personaliza la aplicacion y plataforma  -->  
    <preference name="phonegap-version"      value="3.7.0" />    
